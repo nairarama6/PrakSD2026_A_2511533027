@@ -54,6 +54,9 @@ public class Driver_2511533027 {
         // ================= TAMPIL SETELAH HAPUS =================
         System.out.println("\n=== DATA SETELAH DIHAPUS ===");
         tampil(list);
+        
+        // tutup scanner
+        input.close();
     }
 
     // method tampil
@@ -67,6 +70,7 @@ public class Driver_2511533027 {
             System.out.println("cc: " + m.getCc());
             System.out.println("Harga: " + m.getHarga());
             System.out.println("Merk: " + m.getMerk());
+            
         }
     }
 }
