@@ -31,4 +31,5 @@ public class PencarianSLL_2511533027 {
 				System.out.println("Ketemu");
 			else 
 				System.out.println("Tidak ada");
-		} }
+		} 
+	}
