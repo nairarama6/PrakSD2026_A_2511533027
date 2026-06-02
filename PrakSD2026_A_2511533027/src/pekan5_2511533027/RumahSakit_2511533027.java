@@ -96,9 +96,7 @@ public class RumahSakit_2511533027 {
 		}
 		
 		Pasien_2511533027 temp_3027 = head_3027;
-		int jumlah_3027 = 0;
 		while(temp_3027 != null) {
-			jumlah_3027++;
 			temp_3027 = temp_3027.next_3027;
 		}
 		System.out.println("Jumlah Pasien Dalam Antrian: ");
