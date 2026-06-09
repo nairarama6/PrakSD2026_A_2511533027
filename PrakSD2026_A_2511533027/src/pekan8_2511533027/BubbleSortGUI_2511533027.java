@@ -203,6 +203,3 @@ public class BubbleSortGUI_2511533027 extends JFrame {
 		    });
 		}
 	}
-	    
-	
-
