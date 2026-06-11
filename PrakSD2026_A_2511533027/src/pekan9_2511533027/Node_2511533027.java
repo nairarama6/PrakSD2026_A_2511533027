@@ -1,5 +1,7 @@
 package pekan9_2511533027;
 
+import org.w3c.dom.Node;
+
 public class Node_2511533027 {
 	int data_3027;
 	Node_2511533027 left_3027;

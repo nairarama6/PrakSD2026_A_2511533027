@@ -7,7 +7,7 @@ public class BTree_2511533027 {
 		root_3027 = null;
 	}
 	
-	public boolean search_3027(int data_3027) {
+	public boolean search(int data_3027) {
 		return search_3027(root_3027, data_3027);
 	}
 	
@@ -27,12 +27,12 @@ public class BTree_2511533027 {
 		root_3027.printInorder_3027(root_3027);
 	}
 	
-	public void printPreOrder_3027() {
+	public void printPreorder_3027() {
 		root_3027.printPreorder_3027(root_3027);
 	}
 	
-	public void printPostOrder_3027() {
-		root_3027.printPostorder_3027(root_3027);
+	public void printPostorder_3027() {
+		root_3027.printPostorder_3027(root_3027);	
 	}
 	
 	public Node_2511533027 getRoot_3027() {
